@@ -4,7 +4,7 @@
     </b>
 </p>
 <p align="center">
-<a href="https://dev.azure.com/cplusoft-org/minerva-ai/_git/minerva-ai">
+<a href="https://github.com/ahsanumair1199/google-meet-recorder">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&c=g&size=18&duration=3000&pause=6000&multiline=True&center=true&width=800&height=40&lines= Record google meeting with this bot;" alt="Typing SVG" />
 </a>
 </p>
@@ -17,22 +17,22 @@
     <a href="https://www.python.org/downloads/">
         <img alt="License" src="https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-g.svg">
     </a>
-    <a href="https://cplusoft-org@dev.azure.com/cplusoft-org/minerva-ai/_git/minerva-ai">
-        <img alt="Last Commit" src="https://img.shields.io/github/last-commit/hassi34/iot-device-identification/main?color=g">
+    <a href="https://github.com/ahsanumair1199/google-meet-recorder">
+        <img alt="Last Commit" src="https://github.com/ahsanumair1199/google-meet-recorder?color=g">
     </a>
-    <a href="https://cplusoft-org@dev.azure.com/cplusoft-org/minerva-ai/_git/minerva-ai">
-        <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/hassi34/iot-device-identification?color=g">
+    <a href="https://github.com/ahsanumair1199/google-meet-recorder">
+        <img alt="Code Size" src="https://github.com/ahsanumair1199/google-meet-recorder?color=g">
     </a>
-    <a href="https://cplusoft-org@dev.azure.com/cplusoft-org/minerva-ai/_git/minerva-ai">
-        <img alt="Repo Size" src="https://img.shields.io/github/repo-size/hassi34/iot-device-identification?color=g">
+    <a href="https://github.com/ahsanumair1199/google-meet-recorder">
+        <img alt="Repo Size" src="https://github.com/ahsanumair1199/google-meet-recorder?color=g">
     </a>
-    <a href="https://cplusoft-org@dev.azure.com/cplusoft-org/minerva-ai/_git/minerva-ai">
-        <img alt="License" src="https://img.shields.io/github/license/hassi34/iot-device-identification?color=g">
+    <a href="https://github.com/ahsanumair1199/google-meet-recorder">
+        <img alt="License" src="https://github.com/ahsanumair1199/google-meet-recorder?color=g">
     </a>
-    <a href="https://cplusoft-org@dev.azure.com/cplusoft-org/minerva-ai/_git/minerva-ai">
+    <a href="https://github.com/ahsanumair1199/google-meet-recorder">
         <img alt="Issue Tracking" src="https://img.shields.io/badge/issue_tracking-github-brightgreen.svg">
     </a>
-    <a href="https://cplusoft-org@dev.azure.com/cplusoft-org/minerva-ai/_git/minerva-ai">
+    <a href="https://github.com/ahsanumair1199/google-meet-recorder">
         <img alt="Open Issues" src="https://img.shields.io/github/issues/hassi34/iot-device-identification">
     </a>
 </p>
@@ -84,13 +84,13 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://cplusoft-org@dev.azure.com/cplusoft-org/minerva-ai/_git/minerva-ai
+  git clone https://github.com/ahsanumair1199/google-meet-recorder
 ```
 
 Go to the project directory
 
 ```bash
-  cd minerva-ai
+  cd google-meet-recorder
 ```
 
 #### Export the environment variable `<a id='env-vars'></a>`
